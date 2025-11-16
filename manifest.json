@@ -1,0 +1,15 @@
+{
+  "name": "章鱼喷墨机",
+  "short_name": "章鱼机",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff", // 白色背景
+  "theme_color": "#ffffff", // 白色主题色
+  "icons": [
+    {
+      "src": "icon-512x512.png", // 仅保留512px图标
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
